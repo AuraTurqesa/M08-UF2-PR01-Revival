@@ -1,0 +1,22 @@
+name: flutter_80s_app_clean
+description: A Flutter app for browsing 80s songs and movies.
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.17.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.2
+  url_launcher: ^6.1.5
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/80.webp  # Afegim el fitxer d'imatge a la secció assets

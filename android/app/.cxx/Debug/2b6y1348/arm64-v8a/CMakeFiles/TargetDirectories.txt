@@ -1,0 +1,2 @@
+C:/Users/Sergi/Desktop/M08 UF2 PR01/android/app/.cxx/Debug/2b6y1348/arm64-v8a/CMakeFiles/edit_cache.dir
+C:/Users/Sergi/Desktop/M08 UF2 PR01/android/app/.cxx/Debug/2b6y1348/arm64-v8a/CMakeFiles/rebuild_cache.dir
